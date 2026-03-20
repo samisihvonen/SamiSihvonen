@@ -3,7 +3,7 @@
 ### Full-Stack Developer | Software Engineer
 
 I am a Bachelor of Engineering (ICT) graduate from Metropolia University of Applied Sciences, specializing in Mobile Solutions. 
-I have a strong background in modern software development and practical experience in building and modernizing enterprise-level web applications[cite: 40, 61, 62].
+I have a strong background in modern software development and practical experience in building and modernizing enterprise-level web applications.
 
 - 🎓 **Education:** Bachelor of Engineering, Mobile Solutions (Graduated June 2024).
 - 🚀 **Specialization:** Full-stack development, microservices architecture, and cloud services.
