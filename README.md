@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  [cite_start]I am a software engineering professional with a strong foundation in modern web architectures and microservices[cite: 38, 62, 69]. [cite_start]My background includes hands-on experience in enterprise-level system modernizations and high-performance API development[cite: 56, 61, 62].
+  [cite_start]I am a software engineering professional with a strong foundation in modern web architectures and microservices[cite: 38, 39, 62, 69]. [cite_start]My background includes hands-on experience in enterprise-level system modernizations and high-performance API development[cite: 56, 61, 62].
 </p>
 
 <p align="center">
