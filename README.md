@@ -84,7 +84,7 @@
 
 
 <p align="center">
-![Sami's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamiSihvonen&show_icons=true&theme=radical)
+  <img src="https://github-readme-stats.vercel.app/api?username=SamiSihvonen&show_icons=true&theme=radical"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamiSihvonen&layout=compact&theme=dark&hide=css,html" alt="Top Languages" />
 </p>
 
