@@ -11,7 +11,8 @@
 </p>
 
 <p align="center">
-  [cite_start]I am a software engineering professional with a strong foundation in modern web architectures and microservices[cite: 38, 39, 62, 69]. [cite_start]My background includes hands-on experience in enterprise-level system modernizations and high-performance API development[cite: 56, 61, 62].
+  I am a software engineering professional with a strong foundation in modern web architectures and microservices. 
+  My background includes hands-on experience in enterprise-level system modernizations and high-performance API development.
 </p>
 
 <p align="center">
@@ -61,15 +62,15 @@
 
 ### 📊 Professional Milestones
 
-* [cite_start]**Backend Developer @ Invian Oy** [cite: 53]
-    * [cite_start]*Core:* Developed Java Jersey REST APIs for Domacare[cite: 56].
-    * [cite_start]*Impact:* Built a robust logging system for proactive monitoring and reliability[cite: 57].
-* [cite_start]**Software Developer @ Digia Oyj** [cite: 59]
-    * [cite_start]*Core:* Migrated Java monoliths to modern NestJS microservices[cite: 62].
-    * [cite_start]*Impact:* Optimized performance within complex OracleDB structures[cite: 63].
-* [cite_start]**Java Full-Stack Consultant @ Experis Academy** [cite: 66]
-    * [cite_start]*Core:* Designed microservices with Spring Boot and React[cite: 69].
-    * [cite_start]*Impact:* Led secure API implementation using JWT[cite: 70].
+* **Backend Developer @ Invian Oy**
+    * *Core:* Developed Java Jersey REST APIs for Domacare.
+    * *Impact:* Built a robust logging system for proactive monitoring and reliability.
+* **Software Developer @ Digia Oyj**
+    * *Core:* Migrated Java monoliths to modern NestJS microservices.
+    * *Impact:* Optimized performance within complex OracleDB structures.
+* **Java Full-Stack Consultant @ Experis Academy**
+    * *Core:* Designed microservices with Spring Boot and React.
+    * *Impact:* Led secure API implementation using JWT.
 
 ---
 
