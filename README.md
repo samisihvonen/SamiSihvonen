@@ -7,11 +7,11 @@
 </p>
 
 <p align="center">
-  <strong>Bachelor of Engineering (ICT) | Mobile Solutions Specialist | [cite_start]Continuous Learner</strong> [cite: 39, 41]
+  <strong>Bachelor of Engineering (ICT) | Mobile Solutions Specialist | Continuous Learner</strong>
 </p>
 
 <p align="center">
-  [cite_start]I am a software engineering professional with a strong foundation in modern web architectures and microservices. [cite: 38, 62, 69] [cite_start]My background includes hands-on experience in enterprise-level system modernizations and high-performance API development. [cite: 56, 61, 62]
+  [cite_start]I am a software engineering professional with a strong foundation in modern web architectures and microservices[cite: 38, 62, 69]. [cite_start]My background includes hands-on experience in enterprise-level system modernizations and high-performance API development[cite: 56, 61, 62].
 </p>
 
 <p align="center">
@@ -31,28 +31,28 @@
   </tr>
   <tr>
     <td>
-      [cite_start]<img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" />  <br/>
-      <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" /> [cite: 23] <br/>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />  <br/>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" /> 
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" /> <br/>
+      <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" /> <br/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" /> <br/>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
     </td>
     <td>
-      <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white" />  <br/>
-      <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" />  <br/>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />  <br/>
-      <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat&logo=react&logoColor=black" /> 
+      <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white" /> <br/>
+      <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" /> <br/>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" /> <br/>
+      <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat&logo=react&logoColor=black" />
     </td>
     <td>
-      <img src="https://img.shields.io/badge/PostgreSQL-4479A1?style=flat&logo=postgresql&logoColor=white" />  <br/>
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />  <br/>
-      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" /> [cite: 7] <br/>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" /> 
+      <img src="https://img.shields.io/badge/PostgreSQL-4479A1?style=flat&logo=postgresql&logoColor=white" /> <br/>
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" /> <br/>
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" /> <br/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
     </td>
     <td>
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />  <br/>
-      <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white" />  <br/>
-      <img src="https://img.shields.io/badge/REST%20APIs-005571?style=flat&logo=google-cloud&logoColor=white" />  <br/>
-      <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=json-web-tokens&logoColor=white" /> 
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" /> <br/>
+      <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white" /> <br/>
+      <img src="https://img.shields.io/badge/REST%20APIs-005571?style=flat&logo=google-cloud&logoColor=white" /> <br/>
+      <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=json-web-tokens&logoColor=white" />
     </td>
   </tr>
 </table>
@@ -62,14 +62,14 @@
 ### 📊 Professional Milestones
 
 * [cite_start]**Backend Developer @ Invian Oy** [cite: 53]
-    * [cite_start]*Core:* Developed Java Jersey REST APIs for Domacare. [cite: 56]
-    * [cite_start]*Impact:* Built a robust logging system for proactive monitoring and reliability. [cite: 57]
+    * [cite_start]*Core:* Developed Java Jersey REST APIs for Domacare[cite: 56].
+    * [cite_start]*Impact:* Built a robust logging system for proactive monitoring and reliability[cite: 57].
 * [cite_start]**Software Developer @ Digia Oyj** [cite: 59]
-    * [cite_start]*Core:* Migrated Java monoliths to modern NestJS microservices. [cite: 62]
-    * [cite_start]*Impact:* Optimized performance within complex OracleDB structures. [cite: 63]
+    * [cite_start]*Core:* Migrated Java monoliths to modern NestJS microservices[cite: 62].
+    * [cite_start]*Impact:* Optimized performance within complex OracleDB structures[cite: 63].
 * [cite_start]**Java Full-Stack Consultant @ Experis Academy** [cite: 66]
-    * [cite_start]*Core:* Designed microservices with Spring Boot and React. [cite: 69]
-    * [cite_start]*Impact:* Led secure API implementation using JWT. [cite: 70]
+    * [cite_start]*Core:* Designed microservices with Spring Boot and React[cite: 69].
+    * [cite_start]*Impact:* Led secure API implementation using JWT[cite: 70].
 
 ---
 
@@ -90,5 +90,5 @@
   </a>
   <a href="mailto:sami.sihvonen1984@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  [cite_start]</a> 
+  </a>
 </p>
