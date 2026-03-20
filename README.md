@@ -1,102 +1,94 @@
-# Hi there, I'm Sami Sihvonen! 👋
+# <p align="center">👋 Welcome to Sami Sihvonen's Profile</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Full--Stack%20Developer-%2332CD32?style=for-the-badge&logo=codeforces&logoColor=white" alt="Full-Stack Developer" />
-  <img src="https://img.shields.io/badge/Software%20Engineer-%234169E1?style=for-the-badge&logo=codingame&logoColor=white" alt="Software Engineer" />
-  <img src="https://img.shields.io/badge/Metropolia%20ICT%20Alumni-%23FFA500?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="Metropolia Alumni" />
+  <img src="https://img.shields.io/badge/Full--Stack%20Developer-%2332CD32?style=for-the-badge&logo=codeforces&logoColor=white" />
+  <img src="https://img.shields.io/badge/Software%20Engineer-%234169E1?style=for-the-badge&logo=codingame&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metropolia%20UAS%20Alumni-%23FFA500?style=for-the-badge&logo=graduation-cap&logoColor=white" />
 </p>
 
 <p align="center">
- I am a Bachelor of Engineering (ICT) graduate from Metropolia University of Applied Sciences, specializing in Mobile Solutions. I have a strong background in modern software development and practical experience in building and modernizing enterprise-level web applications.
+  <strong>Bachelor of Engineering (ICT) | Mobile Solutions Specialist | [cite_start]Continuous Learner</strong> [cite: 39, 41]
 </p>
 
----
-
-## 🛠️ Tech Stack & Tools
+<p align="center">
+  [cite_start]I am a software engineering professional with a strong foundation in modern web architectures and microservices. [cite: 38, 62, 69] [cite_start]My background includes hands-on experience in enterprise-level system modernizations and high-performance API development. [cite: 56, 61, 62]
+</p>
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" /></a>
-  <br/>
-  <a href="#"><img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angular&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Jersey-3D6B9A?style=for-the-badge&logo=eclipse-jetty&logoColor=white" /></a>
-  <br/>
-  <a href="#"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/PostgreSQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/OracleDB-F80000?style=for-the-badge&logo=oracle&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /></a>
-  <br/>
-  <a href="#"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=SamiSihvonen&label=Profile%20Views&color=blue&style=flat-square" alt="Views" />
 </p>
 
 ---
 
-## 👨‍💻 Education & Core Strengths
+### 🛠️ Technical Arsenal
 
-- 🎓 **Bachelor of Engineering**, Mobile Solutions | *Metropolia UAS, Graduated June 2024*
-- 🚀 Specialized in Full-stack development, Microservices architecture, and Cloud services.
-- 🛠️ Proven track record working with companies like Invian, Digia, and Experis Academy on diverse tech stacks.
+<table align="center">
+  <tr>
+    <td align="center" width="25%"><strong>Languages</strong></td>
+    <td align="center" width="25%"><strong>Frameworks</strong></td>
+    <td align="center" width="25%"><strong>Data & Cloud</strong></td>
+    <td align="center" width="25%"><strong>Tools</strong></td>
+  </tr>
+  <tr>
+    <td>
+      [cite_start]<img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" />  <br/>
+      <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" /> [cite: 23] <br/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />  <br/>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" /> 
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white" />  <br/>
+      <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" />  <br/>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />  <br/>
+      <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat&logo=react&logoColor=black" /> 
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/PostgreSQL-4479A1?style=flat&logo=postgresql&logoColor=white" />  <br/>
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />  <br/>
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" /> [cite: 7] <br/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" /> 
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />  <br/>
+      <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white" />  <br/>
+      <img src="https://img.shields.io/badge/REST%20APIs-005571?style=flat&logo=google-cloud&logoColor=white" />  <br/>
+      <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=json-web-tokens&logoColor=white" /> 
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📈 Recent Projects & Experience
+### 📊 Professional Milestones
 
-<details open>
-  <summary><b>Invian Oy (Domacare)</b> - <i>API Developer</i></summary>
-  <ul>
-    <li>Developed and maintained Java Jersey-based REST APIs.</li>
-    <li>Integrated system features with the Freshdesk platform for improved support workflow.</li>
-  </ul>
-</details>
-
-<details>
-  <summary><b>Digia Oyj</b> - <i>Software Developer (Modernization)</i></summary>
-  <ul>
-    <li>Participated in an enterprise web service modernization project.</li>
-    <li>Migrated a legacy Java monolith to a modern NestJS-based microservices architecture.</li>
-  </ul>
-</details>
-
-<details>
-  <summary><b>Experis Academy</b> - <i>Java Full-Stack Consultant</i></summary>
-  <ul>
-    <li>Designed and implemented a microservices-based fitness application using Spring Boot and React.</li>
-    <li>Implemented secure user authentication with JWT.</li>
-  </ul>
-</details>
+* [cite_start]**Backend Developer @ Invian Oy** [cite: 53]
+    * [cite_start]*Core:* Developed Java Jersey REST APIs for Domacare. [cite: 56]
+    * [cite_start]*Impact:* Built a robust logging system for proactive monitoring and reliability. [cite: 57]
+* [cite_start]**Software Developer @ Digia Oyj** [cite: 59]
+    * [cite_start]*Core:* Migrated Java monoliths to modern NestJS microservices. [cite: 62]
+    * [cite_start]*Impact:* Optimized performance within complex OracleDB structures. [cite: 63]
+* [cite_start]**Java Full-Stack Consultant @ Experis Academy** [cite: 66]
+    * [cite_start]*Core:* Designed microservices with Spring Boot and React. [cite: 69]
+    * [cite_start]*Impact:* Led secure API implementation using JWT. [cite: 70]
 
 ---
 
-## 📊 GitHub Stats
-
+### ⚡ GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SamiSihvonen&show_icons=true&theme=radical"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamiSihvonen&layout=compact&theme=dark&hide=css,html" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SamiSihvonen&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamiSihvonen&layout=compact&theme=radical&border_radius=10&hide=css,html" alt="Top Languages" />
 </p>
 
 ---
 
-## 🔗 Connect with me
+### 🤝 Let's Connect
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/sami-sihvonen/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/SamiSihvonen">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+  <a href="mailto:sami.sihvonen1984@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  [cite_start]</a> 
 </p>
