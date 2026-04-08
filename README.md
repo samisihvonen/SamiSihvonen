@@ -72,14 +72,6 @@
     * *Core:* Designed microservices with Spring Boot and React.
     * *Impact:* Led secure API implementation using JWT.
 
----
-
-### ⚡ GitHub Insights
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SamiSihvonen&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamiSihvonen&layout=compact&theme=radical&border_radius=10&hide=css,html" alt="Top Languages" />
-</p>
 
 ---
 
